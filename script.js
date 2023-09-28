@@ -16,9 +16,9 @@ Print out the total price such as "There you go, that'll be 10 euros"
 Where 10 is replaced by the calculation of the total price.
 */
 const price = 10;
-let numberOfCoffees= parseInt(prompt("how many coffees would you like"));
- let totalPrice = price*numberOfCoffees;
-console.log(`There you go that'll be ${totalPrice} euros`);
+// let numberOfCoffees= parseInt(prompt("how many coffees would you like"));
+// let totalPrice = price*numberOfCoffees;
+// console.log(`There you go that'll be ${totalPrice} euros`);
 // Good practice Approach
 
 
